@@ -3,6 +3,8 @@
 node index.js --action list
 https://ibb.co/R7054Dm
 
+[node index.js --action list](https://ibb.co/R7054Dm)
+
 # Получаем контакт по id
 
 node index.js --action get --id 5
