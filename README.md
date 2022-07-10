@@ -1,1 +1,1 @@
-# goit-node
+# node-homework
